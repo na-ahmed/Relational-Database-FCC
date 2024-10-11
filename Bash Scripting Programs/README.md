@@ -37,19 +37,19 @@ This repository consists of the following Bash scripts:
 </ul>
 
 ## Program Descriptions
-### 1. [questionnaire.sh](/Bash-Scripting-Programs/questionnaire.sh)
+### 1. [questionnaire.sh](questionnaire.sh)
 An interactive script that asks the user a series of questions and prints a custom message based on their inputs. Great for practicing user input handling in Bash.
 
-### 2. [countdown.sh](/Bash-Scripting-Programs/countdown.sh)
+### 2. [countdown.sh](countdown.sh)
 This script takes a positive integer as an argument and counts down from that number to zero, with a one-second pause between each number. It demonstrates the use of loops, conditional statements, and argument handling in Bash.
 
-### 3. [bingo.sh](/Bash-Scripting-Programs/bingo.sh)
+### 3. [bingo.sh](bingo.sh)
 A simple Bingo number generator that outputs a random number between 1 and 75 and displays it along with the corresponding Bingo column (B, I, N, G, or O). This script uses random number generation and conditionals for output formatting.
 
-### 4. [fortune.sh](/Bash-Scripting-Programs/fortune.sh)
+### 4. [fortune.sh](fortune.sh)
 A fun script that acts like a fortune teller. The user inputs a yes/no question, and the script provides a random answer from a set of predefined responses. It showcases user input handling and working with random values in arrays.
 
-### 5. [five.sh](/Bash-Scripting-Programs/five.sh)
+### 5. [five.sh](five.sh)
 A meta-script designed to run all the other scripts in this repository sequentially. Useful for executing all functionalities at once.
 
 ## References
