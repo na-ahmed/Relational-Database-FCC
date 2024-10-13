@@ -4,3 +4,6 @@ This repository contains the projects submitted for the Relational Database Cert
 <br>
 
 ![Relational Database Certificate](Relational_Database_Certificate.png)
+
+## References
+- <a href="https://www.freecodecamp.org/learn/relational-database/">FreeCodeCamp Relational Database</a>
